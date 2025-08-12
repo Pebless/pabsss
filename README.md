@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MY RESUME</title>
+    <title>MY RESUME</title></head>
 </head>
 <body bgcolor="grey">
 <header>
@@ -42,7 +42,7 @@
 
 <h2>OTHERS</h2>
 <UL>
-  <a href=<https:www.google.com>BIOGRAPHY</a> <a href="./Top 5. html>MY TOP 5</a>
+  <a href="./Top 5. html>MY TOP 5</a>
 </UL>
 </body>
 </html>
