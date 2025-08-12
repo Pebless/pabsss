@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +7,7 @@
 </head>
 <body bgcolor="grey">
 <header>
-    <img src="../forms/IMG_20250703_190421_104.jpg"  width="200" hieght="100">
+    <img src="../IMG_20250628_154702_708.jpg" width="200" hieght="100">
   <br>
   <H1>PABLO TRICKS L. YBOA</H1>
  <h2><strong>Summary</strong></h2>
@@ -43,9 +42,8 @@
 
 <h2>OTHERS</h2>
 <UL>
-  <li><a href="../semantics/contact.html">contact</a></li>
-  <li><a href="../Class.html/classes.html">classes</a></li>
+  <a href=<https:www.google.com>BIOGRAPHY</a> <a href="./Top 5. html>MY TOP 5</a>
 </UL>
-<P>PABLO TRICKS L. YBOA.All rights reserved.</P>
 </body>
 </html>
+
