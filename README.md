@@ -7,7 +7,7 @@
 </head>
 <body bgcolor="grey">
 <header>
-    <img src="../IMG_20250628_154702_708.jpg" width="200" hieght="100">
+    <img src="../IMG_20250628_154702_708.jpg" width="200" hieght="100"></header>
   <br>
   <H1>PABLO TRICKS L. YBOA</H1>
  <h2><strong>Summary</strong></h2>
@@ -42,8 +42,7 @@
 
 <h2>OTHERS</h2>
 <UL>
-  <a href="./Top 5. html>MY TOP 5</a>
+  <li><a href=multipages/topfive.html></a></li>
 </UL>
 </body>
 </html>
-
